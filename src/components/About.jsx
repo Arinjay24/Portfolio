@@ -1,4 +1,5 @@
 import React from 'react'
+import me from "../assets/me.jpg";
 
 export default function About(){
   return (
@@ -6,7 +7,7 @@ export default function About(){
       <div className="card">
         <div className="md:flex items-center gap-8">
           <div className="w-28 h-28 rounded-full overflow-hidden flex-shrink-0">
-            <img src="/src/assets/me.jpg" alt="profile" className="w-full h-full object-cover" />
+            <img src={me} alt="profile" className="w-full h-full object-cover" />
           </div>
           <div>
             <h3 className="text-2xl font-semibold">About Me</h3>

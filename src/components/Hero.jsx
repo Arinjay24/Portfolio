@@ -1,5 +1,5 @@
 import React from 'react'
-
+import mypic from "../assets/mypic.jpeg";
 export default function Hero(){
   return (
     <section className="relative overflow-hidden mt-8">
@@ -19,7 +19,7 @@ export default function Hero(){
         </div>
         <div className="flex justify-center md:justify-end">
           <div className="w-56 h-56 rounded-2xl overflow-hidden bg-gradient-to-br from-indigo-50 to-white shadow-soft">
-            <img src="/src/assets/mypic.jpeg" alt="Profile" className="w-full h-full object-cover" />
+            <img src={mypic} alt="Profile" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>

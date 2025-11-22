@@ -1,19 +1,20 @@
 import React from 'react'
-
+import hrs from '../assets/hrs.png'
+import aps from '../assets/aps.png'
 const projects = [
   {
     name: 'Automated Parking System',
     desc: 'Web-based application for real-time tracking of parking spots; integrated Arduino sensors for automated updates, increasing accuracy and reducing congestion.',
     tech: ['JavaScript', 'Arduino', 'Websockets'],
     link: 'https://github.com/Prachiagarwal5678/mlsc_hack',
-    image: '/src/assets/aps.png'
+    image: aps
   },
   {
     name: 'Hotel Review System',
     desc: 'NLP-driven platform to generate sentiment-based star ratings and display feedback summaries via an interactive UI.',
     tech: ['Python', 'NLP', 'React'],
     link: 'https://github.com/Arinjay24/SE-Project',
-    image: '/src/assets/hrs.png'
+    image: hrs
   }
 ]
 
