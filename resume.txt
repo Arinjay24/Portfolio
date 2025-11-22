@@ -1,0 +1,57 @@
+Arinjay Shukla Email : shuklaarinjay24@gmail.com
+Linkedin: https://www.linkedin.com/in/arinjay-shukla-5845641a5 Mobile : +91 9125799945
+Github: https://github.com/Arinjay24
+Experience
+• JPMorgan Chase (JPMC)
+Software Developer 2 Nov 2025 – Present
+◦ Recently joined as Software Developer 2; currently onboarding and contributing to core platform and reliability improvements. (Please provide any specific projects or achievements to include.)
+
+• Oracle, TPD Bengaluru, India
+Associate Software Developer Aug 2023 – Oct 2025
+◦ Implemented batch-processing in the GUI with backend-supported parallel API calls and Gzip compression, reducing
+payload size by 80% and improving execution speed by 60%.
+◦ Processed and analyzed 1M+ Diameter packets daily to identify network anomalies; built dashboards to visualize results,
+reducing latency bottlenecks by 30%.
+◦ Built time-series forecasting models on 10K+ user patterns, improving server scaling decisions by 35% and preventing
+peak-hour congestion.
+◦ Created a recovery utility to bypass fatal errors during upgrades, eliminating full reinstalls; resolved 75% of upgrade issues
+across 500+ deployments and reduced incident rates by 90%.
+◦ Designed automated stress and memory validation tools for 5+ hardware modules, reducing hardware failure rates by
+40% and debugging time by 60%.
+◦ Redesigned dashboard GUI by integrating 10+ reusable widgets, improving functionality and reducing load times.
+• Oracle, TPD Bengaluru, India
+Project Intern Jan 2023 – Jul 2023
+◦ Developed a terminal-based UI suite to manage upgrade workflows across 100+ systems, reducing manual effort by
+70% and improving execution speed.
+◦ Implemented structured logging for upgrade processes, increasing traceability and reducing resolution time by 50%.
+• Goldman Sachs, CWM Summer Analyst (Intern) Hyderabad, India
+Jun 2022 – Jul 2022
+◦ Developed a real-time analytics dashboard for 15+ microservices, aggregating 20+ metrics to enforce code quality,
+maintain 80%+ test coverage, and increase application throughput by 30%.
+Education
+• Thapar Institute of Engineering and Technology B.E. in Computer Engineering CGPA: 9.5/10 Patiala, India
+Aug 2019 – Jun 2023
+◦ Coursework: Data Structures and Algorithms, Operating Systems, Database Management Systems, Object-Oriented
+Programming
+• St. Francis’ College High School Percentage: 94% Lucknow, India
+Aug 2017 – Jun 2019
+Technical Skills
+• Languages: C++, C, Java, Python, Perl, JavaScript, HTML, CSS, MySQL, TypeScript
+• Frameworks & Libraries: React, Node.js, Express, Bootstrap, MongoDB, Preact
+• Tools & Technologies: Git, Docker, Kubernetes, Postman, REST APIs, Jupyter, Oracle Linux, FastAPI
+• Core Competencies: Data Structures, Algorithms, Operating Systems, Machine Learning, Deep Learning, Data Analytics
+Projects
+• Automated Parking System
+◦ Designed a web-based application for real-time tracking of parking spots, increasing system accuracy by 40%.
+◦ Integrated Arduino sensors to detect vehicle presence, automating space updates and reducing congestion by 30%.
+• Hotel Review System
+◦ Engineered an NLP-based platform to generate sentiment-driven star ratings (1-5).
+◦ Constructed an interactive UI to display ratings and feedback summaries, improving decision-making and user
+engagement.
+Certifications
+• Oracle Cloud Infrastructure (OCI) 2023 AI Foundations Associate
+• Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+• Oracle Cloud Infrastructure Foundations OCA
+• Google Sound the Alarm : Detection and Response
+• JPMC & Co. Virtual Experience Program in Software Engineering
+• Coursera Packet Switching Networks and Algorithms
