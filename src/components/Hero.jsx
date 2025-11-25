@@ -8,9 +8,9 @@ export default function Hero(){
         <div>
           <h1 className="text-4xl md:text-5xl font-extrabold leading-tight">Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary name">Arinjay Shukla</span>, Software Developer 2 @ JPMC</h1>
           <p className="mt-4 text-slate-600 text-lg">Building scalable systems & elegant front-end experiences, focusing on performance, accessibility, and delightful UX.</p>
-          <div className="mt-6 flex gap-4">
+          <div className="mt-6 flex flex-col sm:flex-row gap-4">
             <a href="#experience" className="btn-primary">Explore my journey</a>
-            <a href="/Arinjay_resume_latest.pdf" className="px-5 py-3 rounded-xl border border-slate-200 text-slate-700 hover:shadow" target="_blank" rel="noreferrer">Download Resume</a>
+            <a href="/Arinjay_resume_latest.pdf" className="px-5 py-3 rounded-xl border border-slate-200 text-slate-700 hover:shadow text-center" target="_blank" rel="noreferrer">Download Resume</a>
           </div>
           <div className="mt-6 flex gap-6 text-sm text-slate-600">
             <div><strong className="text-slate-900">2+</strong> yrs experience</div>

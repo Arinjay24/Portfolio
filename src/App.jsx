@@ -12,7 +12,7 @@ export default function App(){
   return (
     <div className="min-h-screen bg-[linear-gradient(180deg,#fff,#fbfdff)]">
       <Header />
-      <main className="max-w-6xl mx-auto px-6 py-12">
+      <main className="max-w-6xl mx-auto px-4 sm:px-6 py-8 md:py-12">
         <Hero />
         <About />
         <Skills />
